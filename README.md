@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Add me as a friend on discord "꧁𒊹⚠ᴥ⚠𒊹꧂#4157"
+
+### Join our [FB Group](https://www.facebook.com/groups/1778790372291663)
+
 <!--
 **RedFurrFox/RedFurrFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
