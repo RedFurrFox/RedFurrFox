@@ -4,7 +4,6 @@
 
 ### Join our [FB Group](https://www.facebook.com/groups/1778790372291663)
 
-### [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G3DK54K)
 <!--
 **RedFurrFox/RedFurrFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
