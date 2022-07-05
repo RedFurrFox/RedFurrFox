@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+  <b>-= Quick Info On My Profile =-</b><br>
+  <img src="https://komarev.com/ghpvc/?username=RedFurrFox">
+</p>
+
 ### Add me as a friend on discord "꧁𒊹⚠ᴥ⚠𒊹꧂#4157"
 
 ### Join our [FB Group](https://www.facebook.com/groups/1778790372291663)
