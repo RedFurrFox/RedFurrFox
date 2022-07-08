@@ -1,13 +1,15 @@
 ### Hi there 👋
-
-<p align="center">
-  <b>-= Quick Info On My Profile =-</b><br>
-  <img src="https://komarev.com/ghpvc/?username=RedFurrFox">
-</p>
-
+<!--
+<main>
+  <txt align="left" width="400" height="300" src="test>
+  <img align="right" width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=RedFurrFox">
+</main>
+-->
 ### Add me as a friend on discord "꧁𒊹⚠ᴥ⚠𒊹꧂#4157"
 
 ### Join our [FB Group](https://www.facebook.com/groups/1778790372291663)
+
+<img align="right" src="https://komarev.com/ghpvc/?username=RedFurrFox">
 
 <!--
 **RedFurrFox/RedFurrFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
