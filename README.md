@@ -9,6 +9,8 @@
 
 ### Join our [FB Group](https://www.facebook.com/groups/1778790372291663)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RedFurrFox&theme=dark-smoky)](https://git.io/streak-stats)
+
 <img align="right" src="https://komarev.com/ghpvc/?username=RedFurrFox">
 
 <!--
