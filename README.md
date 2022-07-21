@@ -1,9 +1,21 @@
-### Hi there 👋
-### Add me as a friend on discord "꧁𒊹⚠ᴥ⚠𒊹꧂#4157"
-### Join our [FB Group](https://www.facebook.com/groups/1778790372291663)
+# Hi there github users 👋
+## Motto: "Learn to all of your failures, this will teach and guide you in your sweet bright future."
 
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RedFurrFox&theme=dark-smoky)](https://git.io/streak-stats)
+## About Me:
+### I do pranking scripts dedicated to troll and stop scammers/hackers (in some ways).
+
+---
+
+## Socials:
+###  > Add me as a friend on discord "꧁𒊹⚠ᴥ⚠𒊹꧂#4157"
+###  > Join our [FB Group](https://www.facebook.com/groups/1778790372291663)
+
+---
+
+## Statistics:
+### [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RedFurrFox&theme=dark-smoky)](https://git.io/streak-stats)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=RedFurrFox">
 
