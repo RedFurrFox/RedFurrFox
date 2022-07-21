@@ -1,4 +1,4 @@
-# Hi their GitHub users 👋
+# Hi There GitHub Users!!! 👋
 Motto: "Learn to all of your failures, this will teach and guide you in your sweet bright future."
 
 ---
