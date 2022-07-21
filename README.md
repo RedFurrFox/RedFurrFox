@@ -15,11 +15,13 @@ Motto: "Learn to all of your failures, this will teach and guide you in your swe
 ---
 
 ## Statistics:
-<p>
+<p1>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=RedFurrFox&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RedFurrFox&theme=dark-smoky">
+</p2>
+<p2>
   <img align="right" src="https://komarev.com/ghpvc/?username=RedFurrFox">
-</p>
+</p2>
 
 <!--
 **RedFurrFox/RedFurrFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
