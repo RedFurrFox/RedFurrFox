@@ -1,4 +1,4 @@
-# Hi There GitHub Users!!! 👋
+# Hi There GitHub Users!!!
 Motto: "Learn to all of your failures, this will teach and guide you in your sweet bright future."
 
 ---
@@ -15,9 +15,10 @@ Motto: "Learn to all of your failures, this will teach and guide you in your swe
 ---
 
 ## Statistics:
+### [![RedFurrFox's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedFurrFox&count_private=true&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 ### [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RedFurrFox&theme=dark-smoky)](https://git.io/streak-stats)
 
-<img align="right" src="https://komarev.com/ghpvc/?username=RedFurrFox">
+### <img align="right" src="https://komarev.com/ghpvc/?username=RedFurrFox">
 
 <!--
 **RedFurrFox/RedFurrFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
