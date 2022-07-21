@@ -1,5 +1,5 @@
 # Hi there github users 👋
-## Motto: "Learn to all of your failures, this will teach and guide you in your sweet bright future."
+Motto: "Learn to all of your failures, this will teach and guide you in your sweet bright future."
 
 ---
 
