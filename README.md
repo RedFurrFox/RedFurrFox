@@ -14,6 +14,13 @@ Motto: "Learn to all of your failures, this will teach and guide you towards to 
 
 ---
 
+## Do you have some questions, problems, ideas or you want some collaboration request?
+###  > Create a discussion over [here](https://github.com/RedFurrFox/RedFurrFox/discussions).
+###  > Create an issue over [here](https://github.com/RedFurrFox/RedFurrFox/issues).
+###  > Contact me on my [email](redfurryfoxgaming@gmail.com) (plz no spam... Thank you).
+
+---
+
 ## Statistics:
 <p1>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=RedFurrFox&count_private=true&theme=dark&show_icons=true)">
