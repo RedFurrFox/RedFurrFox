@@ -1,10 +1,13 @@
 # Hi There GitHub Users!!! 👋👋👋
-Motto: "Learn to all of your failures, this will teach and guide you towards to your sweet bright future."
+## Motto: 
+### "Learn to all of your failures, this will teach and guide you towards to your sweet bright future."
 
 ---
 
 ## About Me:
-### I do open-source and pranking scripts dedicated to troll and stop scammers/bad hackers (in some ways).
+###  > I do open-source and pranking scripts dedicated to troll and stop scammers/bad hackers (in some ways).
+###  > I love collaborating with others
+###  > Script Kiddie :)
 
 ---
 
@@ -25,7 +28,7 @@ Motto: "Learn to all of your failures, this will teach and guide you towards to 
 <p1>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=RedFurrFox&count_private=true&theme=dark&show_icons=true)">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RedFurrFox&theme=dark-smoky">
-</p2>
+</p1>
 <p2>
   <img align="right" src="https://komarev.com/ghpvc/?username=RedFurrFox">
 </p2>
