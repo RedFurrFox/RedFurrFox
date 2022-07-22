@@ -4,7 +4,7 @@ Motto: "Learn to all of your failures, this will teach and guide you towards to 
 ---
 
 ## About Me:
-### I do pranking scripts dedicated to troll and stop scammers/bad hackers (in some ways).
+### I do open-source and pranking scripts dedicated to troll and stop scammers/bad hackers (in some ways).
 
 ---
 
