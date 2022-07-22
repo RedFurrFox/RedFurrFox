@@ -14,7 +14,7 @@ Motto: "Learn to all of your failures, this will teach and guide you towards to 
 
 ---
 
-## Do you have some questions, problems, ideas or you want some collaboration request?
+## Do you have some questions, problems, ideas or you just want to collab with me?
 ###  > Create a discussion over [here](https://github.com/RedFurrFox/RedFurrFox/discussions).
 ###  > Create an issue over [here](https://github.com/RedFurrFox/RedFurrFox/issues).
 ###  > Contact me on my [email](https://raw.githubusercontent.com/RedFurrFox/RedFurrFox/RedFurrFox-Main/.resources/email.txt) (plz no spam... Thank you).
