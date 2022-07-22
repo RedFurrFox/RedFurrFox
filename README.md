@@ -6,7 +6,8 @@
 
 ## About Me:
 ###  > I do open-source and pranking scripts dedicated to troll and stop scammers/bad hackers (in some ways).
-###  > I love collaborating with others
+###  > I do love collaborating with others
+###  > Currently learning in "Python"
 ###  > Script Kiddie :)
 
 ---
