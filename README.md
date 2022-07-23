@@ -1,4 +1,4 @@
-<img align="center" src="https://user-images.githubusercontent.com/80197308/180588447-774dc7b0-1279-4df6-b287-c78aa3bfdf51.png">
+<img align="center" src="https://github.com/RedFurrFox/RedFurrFox/blob/RedFurrFox-Main/.resources/Banner.png?raw=true">
 
 
 ---
