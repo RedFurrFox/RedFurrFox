@@ -10,15 +10,15 @@
 
 ## About Me:
 ###  > I do open-source and pranking scripts dedicated to troll and stop scammers/bad hackers (in some ways).
-###  > I do love collaborating with others
-###  > Currently learning at "Python" and "Ruby" language
+###  > I do love collaborating with others.
+###  > Currently learning at "Python" and "Ruby" language.
 ###  > Script Kiddie :)
 
 ---
 
 ## Socials:
-###  > Add me as a friend on discord "꧁𒊹⚠ᴥ⚠𒊹꧂#4157"
-###  > Join our [FB Group](https://www.facebook.com/groups/1778790372291663)
+###  > Add me as a friend on discord "꧁𒊹⚠ᴥ⚠𒊹꧂#4157".
+###  > Join our [FB Group](https://www.facebook.com/groups/1778790372291663).
 
 ---
 
