@@ -29,6 +29,12 @@
 
 ---
 
+## Join our testing Guided server
+
+https://www.guilded.gg/i/kam61qBk?cid=17c82012-1619-4c56-a84d-10a9445839df&intent=chat
+
+---
+
 ## Statistics:
 <p1>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=RedFurrFox&count_private=true&theme=dark&show_icons=true)">
