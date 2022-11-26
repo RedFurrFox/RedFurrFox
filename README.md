@@ -11,7 +11,7 @@
 ## About Me: ##
 ###  > I do open-source and pranking scripts dedicated to troll and stop scammers/bad hackers (in some ways). ###
 ###  > I do love collaborating with others. ###
-###  > Currently learning at "Python" and "Ruby" language. ###
+###  > Currently learning at Python, Ruby, CSS, And, Javascript language. ###
 ###  > Script Kiddie :) ###
 
 ---
@@ -29,13 +29,7 @@
 
 ---
 
-## Join our testing Guilded server: ##
-
-https://guilded.gg/AndroidHackersPH
-
----
-
-## Statistics: ##
+## Statistics 👀: ##
 <p1>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=RedFurrFox&count_private=true&theme=dark&show_icons=true)">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RedFurrFox&theme=dark-smoky">
