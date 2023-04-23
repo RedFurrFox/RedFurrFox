@@ -17,7 +17,7 @@
 ---
 
 ## Socials: ##
-###  > Add me as a friend on discord "꧁𒊹⚠ᴥ⚠𒊹꧂#4157" and on guilded "RedFurrFox". ###
+###  > Add me as a friend on discord "꧁𒊹⚠ᴥ⚠𒊹꧂#4157" and on guilded "[RedFurrFox](https://www.guilded.gg/u/RedFurrFox)". ###
 ###  > Join our [FB Group](https://www.facebook.com/groups/1778790372291663). ###
 
 ---
