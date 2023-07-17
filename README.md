@@ -4,28 +4,36 @@
 ---
 
 # Hi There GitHub Users!!! 👋👋👋 #
- Motto: "Learn to all of your failures, this will teach and guide you towards to your sweet bright future."
+ Motto: "Learn all of your failures, this will teach and guide you towards your sweet bright future."
 
 ---
 
 ## About Me: ##
-###  > I do open-source and pranking scripts dedicated to troll and stop scammers/bad hackers (in some ways). ###
-###  > I do love collaborating with others. ###
-###  > Currently learning at Python, Ruby, CSS, And, Javascript language. ###
-###  > Script Kiddie :) ###
+ > I do open-source and pranking scripts dedicated to trolling and stopping scammers/bad hackers (in some ways).
+
+ > I do love collaborating with others.
+
+ > Currently learning Python, Ruby, CSS, And, Javascript language.
+
+ > Script Kiddie :)
 
 ---
 
 ## Socials: ##
-###  > Add me as a friend on discord "꧁𒊹⚠ᴥ⚠𒊹꧂#4157" and on guilded "[RedFurrFox](https://www.guilded.gg/u/RedFurrFox)". ###
-###  > Join our [FB Group](https://www.facebook.com/groups/1778790372291663). ###
+ > Add me as a friend on discord "꧁𒊹⚠ᴥ⚠𒊹꧂#4157" and on guilded "[RedFurrFox](https://www.guilded.gg/u/RedFurrFox)".
+
+ > Join our [FB Group](https://www.facebook.com/groups/1778790372291663).
 
 ---
 
-## Do you have some questions, problems, ideas or you just want to collab with me? ##
-###  > Create a discussion over [here](https://github.com/RedFurrFox/RedFurrFox/discussions). ###
-###  > Create an issue over [here](https://github.com/RedFurrFox/RedFurrFox/issues). ###
-###  > Contact me on my [email](mailto:redfurryfoxgaming@gmail.com) (plz no spam... Thank you). ###
+## Do you have some questions, problems, or ideas? Or just, do you want a collab? ##
+ > Create a discussion over [here](https://github.com/RedFurrFox/RedFurrFox/discussions).
+
+ > Create an issue over [here](https://github.com/RedFurrFox/RedFurrFox/issues).
+
+ > Contact me on my [email](mailto:redfurryfoxgaming@gmail.com) (plz no spam... Thank you).
+
+ > Contact me on my socials above.
 
 ---
 
