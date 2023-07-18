@@ -10,7 +10,7 @@
 ---
 
 ## About Me: ##
- > I do open-source and pranking scripts dedicated to trolling and stopping scammers/bad hackers (in some ways).
+ > I do open-source code stuff and pranking scripts dedicated to troll and stop scammers/bad hackers (in some ways).
 
  > I do love collaborating with others.
 
