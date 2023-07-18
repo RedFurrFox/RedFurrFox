@@ -14,7 +14,7 @@
 
  > I do love collaborating with others.
 
- > Currently learning Python, Ruby, CSS, And, Javascript language.
+ > Currently learning Python, Ruby, CSS And, Javascript language.
 
  > Script Kiddie :)
 
