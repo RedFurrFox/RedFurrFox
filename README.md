@@ -10,7 +10,7 @@
 ---
 
 ## About Me: ##
- > I do open-source code stuff and pranking scripts dedicated to troll and stop scammers/bad hackers (in some ways).
+ > I do open-source code stuff and pranking scripts dedicated to trolling and stopping scammers/bad hackers (in some ways).
 
  > I do love collaborating with others.
 
@@ -39,10 +39,10 @@
 ---
 
 ## Statistics 👀: ##
-<p1>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RedFurrFox&count_private=true&theme=dark&show_icons=true)">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RedFurrFox&theme=dark-smoky">
-</p1>
-<p2>
-  <img align="right" src="https://komarev.com/ghpvc/?username=RedFurrFox">
-</p2>
+<p align="center">
+  <img src="https://stats.hyochan.dev/api/github-stats?login=RedFurrFox" width="95.5%" hight="85%">
+  <img src="https://github-readme-stats.vercel.app/api?username=RedFurrFox&count_private=true&theme=dark&show_icons=true)" width="45.5%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RedFurrFox&theme=dark-smoky" width="50%">
+  <img src="https://wakatime.com/badge/user/d4f32e45-2ac7-49bd-a081-a87593b97a49.svg" alt="Total time coded since Aug 13, 2023">
+  <img src="https://komarev.com/ghpvc/?username=RedFurrFox">
+</p>
