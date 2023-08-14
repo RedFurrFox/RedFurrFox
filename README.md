@@ -1,6 +1,6 @@
 <div>
- <div>
-  <img align="center" src="https://github.com/RedFurrFox/RedFurrFox/blob/RedFurrFox-Main/.resources/Banner.png?raw=true" width="95.5%">
+ <div align="center">
+  <img src="https://github.com/RedFurrFox/RedFurrFox/blob/RedFurrFox-Main/.resources/Banner.png?raw=true" alt="Red's Banner" width="95.5%">
  </div>
  <div>
   <hr>
