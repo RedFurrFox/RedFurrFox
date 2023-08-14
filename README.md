@@ -20,7 +20,7 @@
  <hr>
  <div>
   <h2>Do you have some questions, problems, or ideas? Or maybe, do you want a collab?</h2>
-  <h4>Create a discussion over <a href="https://github.com/RedFurrFox/RedFurrFox/discussions">here</a>.<br> Create an issue over <a href="https://github.com/RedFurrFox/RedFurrFox/issues">here</a>.<br> Contact me on my <a href="mailto:redfurryfoxgaming@gmail.com">email</a> (plz no spam... Thank you).<br> Contact me on my socials mentioned above.</h4>
+  <h4>Create a discussion over <a href="https://github.com/RedFurrFox/RedFurrFox/discussions">here</a>.<br> Create an issue over <a href="https://github.com/RedFurrFox/RedFurrFox/issues">here</a>.<br> Contact me on my <a href="mailto:redfurryfoxgaming@gmail.com">email</a> (plz no spam... Thank you).<br> Contact me on my socials <a href="https://github.com/RedFurrFox#socials">mentioned above</a>.</h4>
  </div>
  <hr>
  <div align="center">
