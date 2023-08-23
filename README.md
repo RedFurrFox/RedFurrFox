@@ -5,7 +5,7 @@
  <div>
   <hr>
   <h1>Hi There GitHub Users!!! 👋👋👋</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=F7F7F7&vCenter=true&width=500&height=25&lines=Hi!+I'm+RedFurFox%2C+A+Python+Coder;Or+just+call+me+red...+hehe+%3AP;Sooooo...;Ummmm...;Are+you+still+there%3F;Helloooooooooooooooooo;Hmmmp...;ienflknerlkndflnv+ijwefn+wnfnsdl;oiwesfdoljs+wejfdisj+fwsjdncsd;oisnrdfjnksdnv+fsfd+fsfefsdfg;Still+there+huh...;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.;Cool;Let's+talk+on+guilded;I'll+be+waiting+for+yahh~;Byeee+%3AD;%3AP">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=F7F7F7&vCenter=true&width=500&height=25&lines=Hi!+I'm+RedFurFox%2C+A+Python+Coder;Or+just+call+me+red...+hehe+%3AP;Sooooo...;Ummmm...;Are+you+still+there%3F;Helloooooooooooooooooo;Hmmmp...;ienflknerlkndflnv+ijwefn+wnfnsdl;oiwesfdoljs+wejfdisj+fwsjdncsd;oisnrdfjnksdnv+fsfd+fsfefsdfg;Still+there+huh...;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.;Cool;Let's+talk+on+guilded;I'll+be+waiting+for+yahh~;Byeee+%3AD;%3AP" alt="Red's Animating Speech">
  </div>
  <hr>
  <div>
