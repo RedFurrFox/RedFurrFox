@@ -24,11 +24,12 @@
   </div>
   <hr>
   <div align="center">
-    <img src="https://stats.hyochan.dev/api/github-stats?login=RedFurrFox" width="95.5%" height="85%" alt="Stat #3">
-    <img src="https://github-readme-stats.vercel.app/api?username=RedFurrFox&count_private=true&theme=dark&show_icons=true)" width="45.5%" alt="Stat #3">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=RedFurrFox&theme=dark-smoky" width="50%" alt="Stat #3">
-    <img src="https://wakatime.com/badge/user/d4f32e45-2ac7-49bd-a081-a87593b97a49.svg" alt="Total time coded since Aug 13, 2023">
-    <img src="https://komarev.com/ghpvc/?username=RedFurrFox" alt="Number of profile views">
+    <img src="https://wakatime.com/share/@RedFurrFox/72061fdb-d810-4219-a946-40b768f9156f.png" height="50%" alt="Stat #1"/>
+    <img src="https://stats.hyochan.dev/api/github-stats?login=RedFurrFox" width="95.5%" height="85%" alt="Stat #2"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=RedFurrFox&count_private=true&theme=dark&show_icons=true)" width="45.5%" alt="Stat #3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=RedFurrFox&theme=dark-smoky" width="50%" alt="Stat #4"/>
+    <img src="https://wakatime.com/badge/user/d4f32e45-2ac7-49bd-a081-a87593b97a49.svg" alt="Total time coded since Aug 13, 2023"/>
+    <img src="https://komarev.com/ghpvc/?username=RedFurrFox" alt="Number of profile views"/>
   </div>
   <hr>
   <h6 align="center">RedFurrFox(Red) 2021-2023</h6>
