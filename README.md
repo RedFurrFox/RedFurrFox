@@ -25,6 +25,8 @@
   <hr>
   <div align="center">
     <img src="https://wakatime.com/share/@RedFurrFox/72061fdb-d810-4219-a946-40b768f9156f.png" alt="Stat #1"/>
+  </div>
+  <div align="center">
     <img src="https://wakatime.com/badge/user/d4f32e45-2ac7-49bd-a081-a87593b97a49.svg" alt="Total time coded since Aug 13, 2023"/>
     <img src="https://komarev.com/ghpvc/?username=RedFurrFox" alt="Number of profile views"/>
   </div>
